@@ -56,6 +56,9 @@ Video Player Page
 Games Section
 ![Games Section](gameSS.png)  
 
+🎥 Demo Video
+👉 Watch the full demo here: [Click to Watch](videoRecording.mp4)
+
 📜 License
 
 This project is licensed under the MIT License – feel free to use and modify the code.
