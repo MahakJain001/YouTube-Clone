@@ -23,18 +23,6 @@ API: YouTube Data API v3
 ✅ Snake Game – Retro snake game with scoring
 ✅ Stone–Paper–Scissors – Play against computer
 
-📂 Folder Structure
-youtube-clone/
-│-- public/              # Static assets
-│-- src/
-│   │-- components/      # Reusable UI components
-│   │-- pages/           # Page-level components (Home, Video, Games, etc.)
-│   │-- games/           # Game components (TicTacToe, Snake, StonePaperScissors)
-│   │-- App.js           # Root component
-│   │-- index.js         # Entry point
-│-- package.json         # Dependencies & scripts
-│-- README.md            # Project documentation
-
 ⚙️ Installation & Setup
 
 Follow these steps to run the project locally:
@@ -54,7 +42,6 @@ REACT_APP_YOUTUBE_API_KEY=your_api_key_here
 
 4️⃣ Start the development server
 npm start
-
 
 👉 The app will run locally at:
 http://localhost:5173/
