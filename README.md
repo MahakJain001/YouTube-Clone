@@ -48,13 +48,13 @@ http://localhost:5173/
 
 🖼️ Screenshots
 Home Page
-![Home Page](screenshots/homeSS.png)  
+![Home Page](homeSS.png)  
 
 Video Player Page
-![Video Player](screenshots/videoSS.png) 
+![Video Player](videoSS.png) 
 
 Games Section
-![Games Section](screenshots/gameSS.png)  
+![Games Section](gameSS.png)  
 
 📜 License
 
